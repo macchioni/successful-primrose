@@ -17,7 +17,9 @@ has_more_link: true
 more_link_text: Read more
 seo:
   title: DA PANCRAZIO Ristorante a Roma
-  description: The preview of the Ampersand theme
+  description: >-
+    Il ristorante Da Pancrazio sorge sui resti del Teatro di Pompeo, a Roma, ed
+    è noto dal 1922 per  la sua tipica cucina romana.
   extra:
     - name: 'og:type'
       value: website
